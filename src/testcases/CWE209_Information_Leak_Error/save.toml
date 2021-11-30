@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE209"]
+        suiteName = "CWE209_Information_Leak_Error"

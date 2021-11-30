@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE511"]
+        suiteName = "CWE511_Logic_Time_Bomb"

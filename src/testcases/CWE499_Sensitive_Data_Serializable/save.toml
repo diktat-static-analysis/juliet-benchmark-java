@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE499"]
+        suiteName = "CWE499_Sensitive_Data_Serializable"

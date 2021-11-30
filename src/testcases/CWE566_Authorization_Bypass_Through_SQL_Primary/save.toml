@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE566"]
+        suiteName = "CWE566_Authorization_Bypass_Through_SQL_Primary"

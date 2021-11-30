@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE601"]
+        suiteName = "CWE601_Open_Redirect"

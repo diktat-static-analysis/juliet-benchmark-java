@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE568"]
+        suiteName = "CWE568_Finalize_Without_Super"

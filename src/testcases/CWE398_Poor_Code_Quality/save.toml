@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE398"]
+        suiteName = "CWE398_Poor_Code_Quality"

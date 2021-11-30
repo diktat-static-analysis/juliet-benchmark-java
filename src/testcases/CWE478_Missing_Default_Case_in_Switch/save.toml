@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE478"]
+        suiteName = "CWE478_Missing_Default_Case_in_Switch"

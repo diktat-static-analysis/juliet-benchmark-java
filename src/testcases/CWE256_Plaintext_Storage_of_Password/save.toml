@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE256"]
+        suiteName = "CWE256_Plaintext_Storage_of_Password"

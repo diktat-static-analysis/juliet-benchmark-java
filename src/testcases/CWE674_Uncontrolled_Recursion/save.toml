@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE674"]
+        suiteName = "CWE674_Uncontrolled_Recursion"

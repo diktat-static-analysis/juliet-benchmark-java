@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE600"]
+        suiteName = "CWE600_Uncaught_Exception_in_Servlet"

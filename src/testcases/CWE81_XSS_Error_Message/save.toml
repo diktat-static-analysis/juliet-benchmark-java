@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE81"]
+        suiteName = "CWE81_XSS_Error_Message"

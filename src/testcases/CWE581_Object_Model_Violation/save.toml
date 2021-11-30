@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE581"]
+        suiteName = "CWE581_Object_Model_Violation"

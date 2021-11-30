@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE336"]
+        suiteName = "CWE336_Same_Seed_in_PRNG"

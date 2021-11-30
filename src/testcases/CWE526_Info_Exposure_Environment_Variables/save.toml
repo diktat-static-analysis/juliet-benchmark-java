@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE526"]
+        suiteName = "CWE526_Info_Exposure_Environment_Variables"

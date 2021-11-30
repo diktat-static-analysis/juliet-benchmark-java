@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE571"]
+        suiteName = "CWE571_Expression_Always_True"

@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE383"]
+        suiteName = "CWE383_Direct_Use_of_Threads"

@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE259"]
+        suiteName = "CWE259_Hard_Coded_Password"

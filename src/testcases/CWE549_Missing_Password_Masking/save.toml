@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE549"]
+        suiteName = "CWE549_Missing_Password_Masking"

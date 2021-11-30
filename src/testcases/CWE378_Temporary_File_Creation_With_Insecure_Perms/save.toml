@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE378"]
+        suiteName = "CWE378_Temporary_File_Creation_With_Insecure_Perms"

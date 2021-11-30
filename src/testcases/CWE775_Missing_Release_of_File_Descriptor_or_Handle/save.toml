@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE775"]
+        suiteName = "CWE775_Missing_Release_of_File_Descriptor_or_Handle"

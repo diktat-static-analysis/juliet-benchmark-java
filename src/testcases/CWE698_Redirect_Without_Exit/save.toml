@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE698"]
+        suiteName = "CWE698_Redirect_Without_Exit"

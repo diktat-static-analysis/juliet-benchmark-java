@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE607"]
+        suiteName = "CWE607_Public_Static_Final_Mutable"

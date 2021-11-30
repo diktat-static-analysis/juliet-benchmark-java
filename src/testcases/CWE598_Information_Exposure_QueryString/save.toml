@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE598"]
+        suiteName = "CWE598_Information_Exposure_QueryString"

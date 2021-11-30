@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE510"]
+        suiteName = "CWE510_Trapdoor"

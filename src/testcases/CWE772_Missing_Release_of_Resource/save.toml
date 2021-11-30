@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE772"]
+        suiteName = "CWE772_Missing_Release_of_Resource"

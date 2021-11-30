@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE585"]
+        suiteName = "CWE585_Empty_Sync_Block"

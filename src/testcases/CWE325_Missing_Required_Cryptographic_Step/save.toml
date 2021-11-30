@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE325"]
+        suiteName = "CWE325_Missing_Required_Cryptographic_Step"
