@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE396"]
+        suiteName = "CWE396_Catch_Generic_Exception"

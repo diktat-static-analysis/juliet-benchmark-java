@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE134"]
+        suiteName = "CWE134_Uncontrolled_Format_String"

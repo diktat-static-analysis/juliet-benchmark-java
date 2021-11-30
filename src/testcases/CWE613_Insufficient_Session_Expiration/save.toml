@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE613"]
+        suiteName = "CWE613_Insufficient_Session_Expiration"

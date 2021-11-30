@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE459"]
+        suiteName = "CWE459_Incomplete_Cleanup"

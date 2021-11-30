@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE681"]
+        suiteName = "CWE681_Incorrect_Conversion_Between_Numeric_Types"

@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE561"]
+        suiteName = "CWE561_Dead_Code"

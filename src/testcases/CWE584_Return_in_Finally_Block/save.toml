@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE584"]
+        suiteName = "CWE584_Return_in_Finally_Block"

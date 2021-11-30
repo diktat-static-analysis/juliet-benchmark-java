@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE395"]
+        suiteName = "CWE395_Catch_NullPointerException"

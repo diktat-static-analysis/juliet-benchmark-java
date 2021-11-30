@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE190"]
+        suiteName = "CWE190_Integer_Overflow"

@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE833"]
+        suiteName = "CWE833_Deadlock"

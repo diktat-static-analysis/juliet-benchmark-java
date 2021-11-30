@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE83"]
+        suiteName = "CWE83_XSS_Attribute"

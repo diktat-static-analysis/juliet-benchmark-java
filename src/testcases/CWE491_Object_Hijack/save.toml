@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE491"]
+        suiteName = "CWE491_Object_Hijack"

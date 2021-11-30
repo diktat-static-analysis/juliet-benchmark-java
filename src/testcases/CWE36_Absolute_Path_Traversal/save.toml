@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE36"]
+        suiteName = "CWE36_Absolute_Path_Traversal"

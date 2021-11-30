@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE535"]
+        suiteName = "CWE535_Info_Exposure_Shell_Error"

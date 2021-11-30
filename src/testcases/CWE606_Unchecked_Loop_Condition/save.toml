@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE606"]
+        suiteName = "CWE606_Unchecked_Loop_Condition"

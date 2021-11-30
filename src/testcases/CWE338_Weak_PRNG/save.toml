@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE338"]
+        suiteName = "CWE338_Weak_PRNG"

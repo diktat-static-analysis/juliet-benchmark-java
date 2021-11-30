@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE539"]
+        suiteName = "CWE539_Information_Exposure_Through_Persistent_Cookie"

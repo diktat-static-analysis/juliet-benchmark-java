@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE226"]
+        suiteName = "CWE226_Sensitive_Information_Uncleared_Before_Release"

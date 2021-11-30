@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE759"]
+        suiteName = "CWE759_Unsalted_One_Way_Hash"

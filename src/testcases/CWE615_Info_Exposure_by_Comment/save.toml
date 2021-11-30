@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE615"]
+        suiteName = "CWE615_Info_Exposure_by_Comment"

@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE765"]
+        suiteName = "CWE765_Multiple_Unlocks"

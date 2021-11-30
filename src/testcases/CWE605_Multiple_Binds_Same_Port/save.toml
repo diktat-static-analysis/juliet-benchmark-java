@@ -1,0 +1,3 @@
+[general]
+        tags = ["CWE605"]
+        suiteName = "CWE605_Multiple_Binds_Same_Port"
