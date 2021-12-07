@@ -1,6 +1,6 @@
 [general]
     description = "Juliet tests"
-    execCmd = "../src/pmd-bin-6.40.0/bin/run.sh pmd -R category/java/security.xml -f text -d"
+    execCmd = "./pmd-bin-6.40.0/bin/run.sh pmd -R category/java/security.xml -f text -d"
     expectedWarningsPattern = "/\\* (FLAW|POTENTIAL\\sFLAW|FIX):(\\d*)? (.+)"
     expectedWarningsMiddlePattern = "\\* (.*)"
     expectedWarningsEndPattern = "(.*)?\\*/"
